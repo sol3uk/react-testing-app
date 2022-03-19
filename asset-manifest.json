@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bens-app/static/css/main.d4c08a18.chunk.css",
+    "main.js": "/bens-app/static/js/main.0072cd7e.chunk.js",
+    "main.js.map": "/bens-app/static/js/main.0072cd7e.chunk.js.map",
+    "runtime-main.js": "/bens-app/static/js/runtime-main.1e5ff0f3.js",
+    "runtime-main.js.map": "/bens-app/static/js/runtime-main.1e5ff0f3.js.map",
+    "static/css/2.150d169a.chunk.css": "/bens-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.8d2384d3.chunk.js": "/bens-app/static/js/2.8d2384d3.chunk.js",
+    "static/js/2.8d2384d3.chunk.js.map": "/bens-app/static/js/2.8d2384d3.chunk.js.map",
+    "index.html": "/bens-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/bens-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d4c08a18.chunk.css.map": "/bens-app/static/css/main.d4c08a18.chunk.css.map",
+    "static/js/2.8d2384d3.chunk.js.LICENSE.txt": "/bens-app/static/js/2.8d2384d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e5ff0f3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8d2384d3.chunk.js",
+    "static/css/main.d4c08a18.chunk.css",
+    "static/js/main.0072cd7e.chunk.js"
+  ]
+}
