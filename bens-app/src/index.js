@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 
 ReactDOM.render(
-    <Router>
+    <Router basename="/react-testing-app">
         <App/>
     </Router>,
     document.getElementById('root')

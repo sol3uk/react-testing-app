@@ -2,7 +2,7 @@
   "name": "bens-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sol3uk.github.io/react-testing-app/",
+  "homepage": "https://sol3uk.github.io/react-testing-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
